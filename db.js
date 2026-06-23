@@ -2237,16 +2237,16 @@ export const db = {
             mediaSalarial: 'R$ 4.046,91/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2327,
                 },
                 2017: {
-                    total: 0,
+                    total: 2431,
                 },
                 2018: {
-                    total: 0,
+                    total: 1935,
                 },
                 2019: {
-                    total: 0,
+                    total: 2310,
                 },
                 2020: {
                     total: 0,
@@ -2334,16 +2334,16 @@ export const db = {
             mediaSalarial: 'R$ 5.855,47/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 1472,
                 },
                 2017: {
-                    total: 0,
+                    total: 1630,
                 },
                 2018: {
-                    total: 0,
+                    total: 1757,
                 },
                 2019: {
-                    total: 0,
+                    total: 1896,
                 },
                 2020: {
                     total: 0,
@@ -2431,16 +2431,16 @@ export const db = {
             mediaSalarial: 'R$ 4.196,63/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 1937,
                 },
                 2017: {
-                    total: 0,
+                    total: 2070,
                 },
                 2018: {
-                    total: 0,
+                    total: 2349,
                 },
                 2019: {
-                    total: 0,
+                    total: 2284,
                 },
                 2020: {
                     total: 0,
@@ -2528,16 +2528,16 @@ export const db = {
             mediaSalarial: 'R$ 4.299,97/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2415,
                 },
                 2017: {
-                    total: 0,
+                    total: 2818,
                 },
                 2018: {
-                    total: 0,
+                    total: 861,
                 },
                 2019: {
-                    total: 0,
+                    total: 2168,
                 },
                 2020: {
                     total: 0,
@@ -2625,16 +2625,16 @@ export const db = {
             mediaSalarial: 'R$ 7.667,69/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2409,
                 },
                 2017: {
-                    total: 0,
+                    total: 2818,
                 },
                 2018: {
-                    total: 0,
+                    total: 861,
                 },
                 2019: {
-                    total: 0,
+                    total: 3152,
                 },
                 2020: {
                     total: 0,
@@ -2722,16 +2722,16 @@ export const db = {
             mediaSalarial: 'R$ 4.722,57/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2708,
                 },
                 2017: {
-                    total: 0,
+                    total: 2602,
                 },
                 2018: {
-                    total: 0,
+                    total: 2564,
                 },
                 2019: {
-                    total: 0,
+                    total: 2847,
                 },
                 2020: {
                     total: 0,
@@ -2819,16 +2819,16 @@ export const db = {
             mediaSalarial: 'R$ 5.133,18/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2164,
                 },
                 2017: {
-                    total: 0,
+                    total: 2542,
                 },
                 2018: {
-                    total: 0,
+                    total: 2363,
                 },
                 2019: {
-                    total: 0,
+                    total: 2762,
                 },
                 2020: {
                     total: 0,
@@ -2916,16 +2916,16 @@ export const db = {
             mediaSalarial: 'R$ 3.926,59/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2693,
                 },
                 2017: {
-                    total: 0,
+                    total: 2603,
                 },
                 2018: {
-                    total: 0,
+                    total: 2713,
                 },
                 2019: {
-                    total: 0,
+                    total: 2024,
                 },
                 2020: {
                     total: 0,
@@ -3013,16 +3013,16 @@ export const db = {
             mediaSalarial: 'R$ 3.926,59/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2703,
                 },
                 2017: {
-                    total: 0,
+                    total: 2653,
                 },
                 2018: {
-                    total: 0,
+                    total: 2904,
                 },
                 2019: {
-                    total: 0,
+                    total: 3295,
                 },
                 2020: {
                     total: 0,
@@ -3110,16 +3110,16 @@ export const db = {
             mediaSalarial: 'R$ 3.926,59/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 1873,
                 },
                 2017: {
-                    total: 0,
+                    total: 1506,
                 },
                 2018: {
-                    total: 0,
+                    total: 1901,
                 },
                 2019: {
-                    total: 0,
+                    total: 2437,
                 },
                 2020: {
                     total: 0,
@@ -3207,16 +3207,16 @@ export const db = {
             mediaSalarial: 'R$ 3.926,59/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2580,
                 },
                 2017: {
-                    total: 0,
+                    total: 2670,
                 },
                 2018: {
-                    total: 0,
+                    total: 2526,
                 },
                 2019: {
-                    total: 0,
+                    total: 2115,
                 },
                 2020: {
                     total: 0,
@@ -3304,16 +3304,16 @@ export const db = {
             mediaSalarial: 'R$ 13.419,79/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2014,
                 },
                 2017: {
-                    total: 0,
+                    total: 1836,
                 },
                 2018: {
-                    total: 0,
+                    total: 1951,
                 },
                 2019: {
-                    total: 0,
+                    total: 1901,
                 },
                 2020: {
                     total: 0,
@@ -3401,16 +3401,16 @@ export const db = {
             mediaSalarial: 'R$ 13.419,79/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2115,
                 },
                 2017: {
-                    total: 0,
+                    total: 2570,
                 },
                 2018: {
-                    total: 0,
+                    total: 2191,
                 },
                 2019: {
-                    total: 0,
+                    total: 1386,
                 },
                 2020: {
                     total: 0,
@@ -3498,16 +3498,16 @@ export const db = {
             mediaSalarial: 'R$ 14.158,59/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 4499,
                 },
                 2017: {
-                    total: 0,
+                    total: 4400,
                 },
                 2018: {
-                    total: 0,
+                    total: 4857,
                 },
                 2019: {
-                    total: 0,
+                    total: 4648,
                 },
                 2020: {
                     total: 0,
@@ -3595,16 +3595,16 @@ export const db = {
             mediaSalarial: 'R$ 3.311,74/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 1708,
                 },
                 2017: {
-                    total: 0,
+                    total: 2171,
                 },
                 2018: {
-                    total: 0,
+                    total: 2459,
                 },
                 2019: {
-                    total: 0,
+                    total: 839,
                 },
                 2020: {
                     total: 0,
@@ -3692,16 +3692,16 @@ export const db = {
             mediaSalarial: 'R$ 5.724,40/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 3139,
                 },
                 2017: {
-                    total: 0,
+                    total: 2674,
                 },
                 2018: {
-                    total: 0,
+                    total: 2493,
                 },
                 2019: {
-                    total: 0,
+                    total: 2807,
                 },
                 2020: {
                     total: 0,
@@ -3789,16 +3789,16 @@ export const db = {
             mediaSalarial: 'R$ 3.075,95/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2528,
                 },
                 2017: {
-                    total: 0,
+                    total: 2611,
                 },
                 2018: {
-                    total: 0,
+                    total: 2674,
                 },
                 2019: {
-                    total: 0,
+                    total: 2627,
                 },
                 2020: {
                     total: 0,
@@ -3886,16 +3886,16 @@ export const db = {
             mediaSalarial: 'R$ 3.075,95/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 1737,
                 },
                 2017: {
-                    total: 0,
+                    total: 2951,
                 },
                 2018: {
-                    total: 0,
+                    total: 2458,
                 },
                 2019: {
-                    total: 0,
+                    total: 2827,
                 },
                 2020: {
                     total: 0,
@@ -3983,16 +3983,16 @@ export const db = {
             mediaSalarial: 'R$ 6.143,98/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2563,
                 },
                 2017: {
-                    total: 0,
+                    total: 2462,
                 },
                 2018: {
-                    total: 0,
+                    total: 2437,
                 },
                 2019: {
-                    total: 0,
+                    total: 1819,
                 },
                 2020: {
                     total: 0,
@@ -4080,16 +4080,16 @@ export const db = {
             mediaSalarial: 'R$ 6.774,75/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2214,
                 },
                 2017: {
-                    total: 0,
+                    total: 2449,
                 },
                 2018: {
-                    total: 0,
+                    total: 2583,
                 },
                 2019: {
-                    total: 0,
+                    total: 2324,
                 },
                 2020: {
                     total: 0,
@@ -4177,16 +4177,16 @@ export const db = {
             mediaSalarial: 'R$ 3.532,41/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2514,
                 },
                 2017: {
-                    total: 0,
+                    total: 2561,
                 },
                 2018: {
-                    total: 0,
+                    total: 3272,
                 },
                 2019: {
-                    total: 0,
+                    total: 2725,
                 },
                 2020: {
                     total: 0,
@@ -4274,16 +4274,16 @@ export const db = {
             mediaSalarial: 'R$ 2.346,34/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2209,
                 },
                 2017: {
-                    total: 0,
+                    total: 2590,
                 },
                 2018: {
-                    total: 0,
+                    total: 2181,
                 },
                 2019: {
-                    total: 0,
+                    total: 1117,
                 },
                 2020: {
                     total: 0,
@@ -4371,16 +4371,16 @@ export const db = {
             mediaSalarial: 'R$ 5.150,55/mês',
             notaMinima: {
                 2016: {
-                    total: 1902,
+                    total: 2406,
                 },
                 2017: {
-                    total: 0,
+                    total: 2326,
                 },
                 2018: {
-                    total: 0,
+                    total: 2220,
                 },
                 2019: {
-                    total: 0,
+                    total: 2645,
                 },
                 2020: {
                     total: 0,
