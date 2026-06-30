@@ -5,7 +5,7 @@ export const db = {
             nome: 'Administração - Noturno',
             mediaSalarial: {
                 valor: "R$ 5.079,13/mês",
-                fonte: ""
+                fonte: "https://www.salario.com.br/profissao/administrador-cbo-252105/"
             },
             cotas: {
                 2016: {
@@ -141,7 +141,7 @@ export const db = {
             nome: 'Agronomia - Integral',
             mediaSalarial: {
                 valor: "R$ 9.723,99/mês",
-                fonte: ""
+                fonte: "https://www.salario.com.br/profissao/agronomo-cbo-222110/"
             },
             cotas: {
                 2016: {
@@ -209,7 +209,7 @@ export const db = {
             nome: 'Artes Visuais - licenciatura - Vespertino',
             mediaSalarial: {
                 valor: "R$ 3.324,17/mês",
-                fonte: ""
+                fonte: "https://www.salario.com.br/profissao/artista-artes-visuais-cbo-262405/"
             },
             cotas: {
                 2016: {
@@ -276,8 +276,8 @@ export const db = {
             id: 5,
             nome: 'Ciências Biológicas - bacharelado - Integral',
             mediaSalarial: {
-                valor: "R$ 4.051,14/mês",
-                fonte: ""
+                valor: "R$  R$ 4.329,31/mês",
+                fonte: "https://www.salario.com.br/profissao/biologo-cbo-221105/"
             },
             cotas: {
                 2016: {
@@ -345,7 +345,7 @@ export const db = {
             nome: 'Ciências Biológicas - licenciatura - Vespertino',
             mediaSalarial: {
                 valor: "R$ 5.859,62/mês",  
-                fonte: ""
+                fonte: "https://www.salario.com.br/profissao/professor-de-ciencias-biologicas-do-ensino-superior-cbo-234405/"
             },
             cotas: {
                 2016: {
@@ -413,7 +413,7 @@ export const db = {
             nome: 'Ciências Biológicas - licenciatura - Noturno',
             mediaSalarial: {
                 valor: "R$ 5.859,62/mês",
-                fonte: ""
+                fonte: "https://www.salario.com.br/profissao/professor-de-ciencias-biologicas-do-ensino-superior-cbo-234405/"
             },
             cotas: {
                 2016: {
@@ -480,8 +480,8 @@ export const db = {
             id: 8,
             nome: 'Ciências Contábeis - Matutino',
             mediaSalarial: {
-                valor: "R$ 24.041,39/mês",
-                fonte: ""
+                valor: "R$ 5.483,98/mês",
+                fonte: "https://www.salario.com.br/profissao/controller-contador-cbo-252210/"
             },
             cotas: {
                 2016: {
@@ -548,8 +548,8 @@ export const db = {
             id: 9,
             nome: 'Ciências Contábeis - Noturno',
             mediaSalarial: {
-                valor: "R$ 24.041,39/mês",
-                fonte: ""
+                valor: "R$ 5.483,98/mês",
+                fonte: "https://www.salario.com.br/profissao/controller-contador-cbo-252210/"
             },
             cotas: {
                 2016: {
@@ -616,8 +616,8 @@ export const db = {
             id: 10,
             nome: 'Ciências Econômicas - Matutino',
             mediaSalarial: {
-                valor: "R$ 2.166,13/mês",
-                fonte: ""
+                valor: "R$ 8.987,88/mês",
+                fonte: "https://www.salario.com.br/profissao/economista-cbo-251205/"
             },  
             cotas: {
                 2016: {
@@ -684,8 +684,8 @@ export const db = {
                 id: 11,
                 nome: 'Ciências Econômicas - Noturno',
                 mediaSalarial: {
-                    valor: "R$ 2.166,13/mês",
-                    fonte: ""
+                    valor: "R$ 8.987,88/mês",
+                    fonte: "https://www.salario.com.br/profissao/economista-cbo-251205/"
                 },
                 cotas: {
                     2016: {
@@ -753,7 +753,7 @@ export const db = {
                 nome: 'Direito - Matutino',
                 mediaSalarial: {
                     valor: "R$ 5.639,49/mês",
-                    fonte: ""
+                    fonte: "https://www.salario.com.br/profissao/advogado-cbo-241005/"
                 },
                 cotas: {
                     2016: {
@@ -821,7 +821,7 @@ export const db = {
                 nome: 'Direito - Noturno',
                 mediaSalarial: {
                     valor: "R$ 5.639,49/mês",
-                    fonte: ""
+                    fonte: "https://www.salario.com.br/profissao/advogado-cbo-241005/"
                 },
                 cotas: {
                     2016: {
@@ -888,8 +888,8 @@ export const db = {
                 id: 14,
                 nome: 'Educação Física - bacharelado - Integral',
                 mediaSalarial: {
-                    valor: "R$ 3.931,88/mês",
-                    fonte: ""
+                    valor: "R$ 2.982,86/mês",
+                    fonte: "https://www.salario.com.br/profissao/personal-training-cbo-224120/"
                 },
                 cotas: {
                     2016: {
@@ -957,7 +957,7 @@ export const db = {
                 nome: 'Educação Física - licenciatura - Noturno',
                 mediaSalarial: {
                     valor: "R$ 3.325,76/mês",
-                    fonte: ""
+                    fonte: "https://www.salario.com.br/profissao/professor-de-educacao-fisica-do-ensino-fundamental-cbo-231315/"
                 },
                 cotas: {
                     2016: {
@@ -1025,7 +1025,7 @@ export const db = {
                 nome: 'Enfermagem - Integral',
                 mediaSalarial: {
                     valor: "R$ 4.446,00/mês",
-                    fonte: ""
+                    fonte: "https://www.salario.com.br/profissao/enfermeiro-cbo-223505/"
                 },
                 cotas: {
                     2016: {
@@ -1092,8 +1092,8 @@ export const db = {
                 id: 17,
                 nome: 'Engenharia Civil - Integral',
                 mediaSalarial: {
-                    valor: "R$ 7.204,13/mês",
-                    fonte: ""
+                    valor: "R$ 9.600,48/mês",
+                    fonte: "https://www.salario.com.br/profissao/engenheiro-civil-cbo-214205/"
                 },
                 cotas: {
                     2016: {
